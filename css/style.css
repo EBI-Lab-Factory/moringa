@@ -12239,4 +12239,13 @@ only screen and (min-resolution: 144 dpi){
         margin-bottom: 120px;
     }
 
+    footer {
+        position: fixed;
+        width: 100%;
+        left: 0;
+        bottom: 0;
+        background-color: #51ae3d ;
+        color: white;
+        text-align: center;
+    }
 }
