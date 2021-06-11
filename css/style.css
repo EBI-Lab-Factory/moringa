@@ -12238,9 +12238,14 @@ only screen and (min-resolution: 144 dpi){
     .gt-content-section{
         margin-bottom: 120px;
     }
+    
+    /* .image-format{
+        height: 400px;
+        width: 100%;
+    } */
 
     footer {
-        position: fixed;
+        /* position: fixed; */
         width: 100%;
         left: 0;
         bottom: 0;
@@ -12248,4 +12253,5 @@ only screen and (min-resolution: 144 dpi){
         color: white;
         text-align: center;
     }
+
 }
